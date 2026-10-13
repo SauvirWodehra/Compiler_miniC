@@ -1,0 +1,7 @@
+mcc
+build/
+out/
+*.o
+*.s
+!examples/*.s
+__pycache__/
