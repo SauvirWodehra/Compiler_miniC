@@ -586,4 +586,5 @@ Contributions are welcome! Here's how to get started:
 
 This project is licensed under the **MIT License** — see the [LICENSE](file:///c:/Users/LOQ/Desktop/Study/Compiler/mini-c-compiler-main/LICENSE) file for details.
 
-Copyright © 2026 Naman Jain
+Copyright © 2026 Sauvir Wodehra
+
